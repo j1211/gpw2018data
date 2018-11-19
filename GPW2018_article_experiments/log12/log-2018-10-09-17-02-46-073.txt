@@ -1,0 +1,14 @@
+player=0,SET:BCFG
+player=1,SET:CDGH
+player=0,MOV:A,N
+player=1,MOV:D,N
+player=0,MOV:A,N
+player=1,MOV:C,E
+player=0,MOV:A,W
+player=1,MOV:C,N
+player=0,MOV:A,E
+player=1,MOV:H,N
+player=0,MOV:A,N
+player=1,MOV:G,E
+player=0,MOV:A,N
+winner=1
